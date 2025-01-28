@@ -2,7 +2,7 @@
 
 🎓 Software Engineer graduate from Western Univerity 
 
-🔍 Interested in Full-Stack Development & Cloud COmputing
+🔍 Experienced in Full-Stack Development, ML & Cloud
 
 🤙 View my portfolio: https://pujapatel.me/
 
