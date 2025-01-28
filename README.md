@@ -6,5 +6,5 @@
 
 🤙 View my portfolio: https://pujapatel.me/
 
-📫 How to reach me: email: ppate343@uwo.ca 
+📫 How to reach me: email: ppate2208@gmail.com
 
