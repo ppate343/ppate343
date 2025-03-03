@@ -1,8 +1,8 @@
 ### Hi there 👋, My name is Puja Patel 
 
-🎓 Software Engineer graduate from Western Univerity 
+🎓 Software Engineer graduate from Western University 
 
-🔍 Experienced in Full-Stack Development, ML & Cloud
+🔍 Experienced in Full-Stack Development, Product Management and the Cloud
 
 🤙 View my portfolio: https://pujapatel.me/
 
